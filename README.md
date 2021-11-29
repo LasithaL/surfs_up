@@ -16,11 +16,11 @@ In comparison the December data suggests a total of 1517 data points with an ave
 
 June Data
 
-![June_Temperature_Summary_Data](june_temp_stats.PNG)
+![June_Temperature_Summary_Data](Images/june_temp_stats.PNG)
 
 December Data
 
-![December_Temperature_Summary_Data](dec_temp_stats.PNG)
+![December_Temperature_Summary_Data](Images/dec_temp_stats.PNG)
 
 The differences found in the June and December temperature data are recorded below.
 - The first difference that I see is that there are approximately 200 more data points in the June data set over December. In knowing that December has more days in the month that June, I would have expected to see more data points in the December dataset. This may warrant a closer look at the data collection process.
